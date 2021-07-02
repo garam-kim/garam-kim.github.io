@@ -14,12 +14,15 @@ permalink: /misc/
 
 
 ## Scholarships
-Brain Korea 21 plus Scholarship, 2019-2020\\
-Government-funding program to strengthen the educational and research capabilities of excellent graduate students\\
-Exchange student Scholarship, Pusan National University International, 2017\\
-Study Scholarships, Pusan National University, 2013-2015, 2020\\
-Samsung Dream Class Scholarship, Samsung, 2013\\
-\\awarded to an undergraduate student as a mentor for middle school students living in rural areas
+#### - Brain Korea 21 plus Scholarship, 2019-2020
+- Government-funding program to strengthen the educational and research capabilities of excellent graduate students
+
+#### - Exchange student Scholarship, Pusan National University International, 2017
+
+#### - Study Scholarships, Pusan National University, 2013-2015, 2020
+
+#### - Samsung Dream Class Scholarship, Samsung, 2013
+- awarded to an undergraduate student as a mentor for middle school students living in rural areas
 
 
 ## Talks
