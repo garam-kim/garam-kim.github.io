@@ -1,79 +1,58 @@
-# academic
+# Jackal ![](https://img.shields.io/npm/l/express.svg?maxAge=2592000?style=flat-square)
+Jackal is a very lightweight theme for Jekyll.  
+Feel free to fork, change, modify and re-use it.
 
-### A Jekyll theme for academia
+### Screenshots
+![](https://cloud.githubusercontent.com/assets/447956/17020916/9ed9ce1a-4f44-11e6-80d5-26df9d219dd2.PNG)
+![](https://cloud.githubusercontent.com/assets/447956/17020915/9ed939f0-4f44-11e6-9e8e-3a8e5562b0da.PNG)
 
-![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
+# Usage
+Be sure to have both `jekyll` and `jekyll-paginate` gem installed.
 
-A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
+Than using your favorite terminal do:
 
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
-
-* Manage courses that you are teaching.
-
-* Provide updates to your students and faulty.
-
-## Installation
-
-### Ruby Gem Method
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "academic-jekyll-theme"
+```
+$ git clone git@github.com:clenemt/jackal.git
+$ cd jackal
+$ jekyll serve
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+Jackal theme includes:
 
-```yaml
-theme: academic-jekyll-theme
-```
+* Intro page
+* About page
+* Articles, archives and pagination
+* Rss feed
+* Responsive & great typo
+* Code syntax highlighting
+* Google Analytics tracking code
 
-And then execute:
+It can be seen in used at [clenemt.com](http://clenemt.com) or on [Github page](https://clenemt.github.io/jackal/).
 
-    $ bundle
+## Options
+See the global template options inside `config.yml` first thing.
 
-Or install it yourself as:
+Jackal also supports the following Front Matter options,
 
-    $ gem install academic-jekyll-theme
+for **pages**:
+* title (the page title)
+* subtitle (the page h1)
+* desc (for a SEO description /= excerpt)
 
-## Usage
+for **posts**:
+* microtitle (for a page title /= title)
+* desc (for a manual excerpt and SEO description)
 
-### Layouts
+See [Front Matter](https://jekyllrb.com/docs/frontmatter/) and [configuration](https://jekyllrb.com/docs/configuration/) for more information.
 
-The following sections describe usage instructions for this Jekyll theme,including available layouts, includes, sass and/or assets.
+# Thanks
+Thanks to [Kactus](https://github.com/nickbalestra/kactus) and [jaicab]( https://github.com/jaicab/jaicab.github.io).
 
-#### Home
+# License
+Copyright (c) 2016 Jackal Authors - Released under the MIT License.
 
-The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-#### People
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
-
-#### Publications
-
-The `_layouts/publications.html` layout can be used to showcase selected publications, or the entire catalogue of publications. Direct links to the paper can be used, or a PDF copy of the paper can be served. Publications are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
-
-#### Courses
-
-The `_layouts/courses.html` layout can be used to showcase courses that were taught in the past or are currently being taught. Courses are defined in the `_data/settings.yml` file, and markdown pages for each course with the `_layouts/page.html` layout can be placed in the `courses` directory. Related course material, such as PDF files, can also be placed in the `courses` directory in a subdirectory with the same name as the corresponding course.
-
-#### CV
-
-The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
-
-#### Contact
-
-The `_layouts/contact.html` layout can be used to provide contact information for the research group or the people that lead the research group. Contact information is defined in the `_data/settings.yml` file.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/LeNPaul/academic. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`, then run `bundle exec jekyll serve`, and open your browser at `http://localhost:4000`. This starts a Jekyll server using this theme. Make changes to the pages, documents, data, etc. like normal to test this theme's contents. As you make modifications to this theme the site will regenerate and you should see the changes in the browser after a refresh.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
