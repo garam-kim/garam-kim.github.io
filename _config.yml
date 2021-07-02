@@ -1,6 +1,6 @@
 title:               Celeste
-url:                
-baseurl:             "garam-kim.github.io"
+url:                "garam-kim.github.io"
+baseurl:             ""
 
 markdown:            kramdown
 highlighter:         rouge
