@@ -32,14 +32,16 @@
 
   .post-content,
   .page-content {
-    font-size: $fs-md;
+  //  font-size: $fs-md;
+    font-size: 1.2rem;
     line-height: $lh-md;
+//    line-height: 1.5rem;
 
-    p, ul, ol { margin-bottom: $spacer1; }
+    p, ul, ol { margin-bottom: $spacer; }
 
     h2 {
       margin-top: $spacer4;
-      margin-bottom: $spacer1;
+      margin-bottom: $spacer;
     }
 
     h3 {
