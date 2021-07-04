@@ -6,7 +6,6 @@ title: Educations
 permalink: /educations/
 ---
 
-
 ## Technische Universität Berlin
  　　M.Sc. Student in Scientific Computing, 09/2020 - present
 
@@ -14,7 +13,7 @@ permalink: /educations/
 ## Pusan National University 　　
 
  　　M.Sc. in Applied Mathematics, 03/2019 - 08/2020\\
-  　　- <span style="color:grey; font-size:16.5px">Master’s thesis: Convergence of Newton’s Method in Solving Quadratic Matrix <br>  　 　　Equation with Artificial Neural Network (Advisor: Prof. Hyun-Min Kim) 　<br> 　　 　　\[[Slide](https://drive.google.com/file/d/1SA5Q8AmNrDoojHfQhBrVwFNUoKBgmDz0/view?usp=sharing)\], \[[paper](https://drive.google.com/file/d/1J9u-gPokCt1WgDQdLT3znu4xYE27AScz/view?usp=sharing)\]</span>
+  　　- <span style="color:grey; font-size:16.5px">Master’s thesis: Convergence of Newton’s Method in Solving Quadratic Matrix <br>  　 　　Equation with Artificial Neural Network (Advisor: Prof. Hyun-Min Kim) 　<br> 　　 　　\[[Slide](/assets/file/master_slide.pdf)\], \[[paper](https://drive.google.com/file/d/1J9u-gPokCt1WgDQdLT3znu4xYE27AScz/view?usp=sharing)\]</span>
 
 
 

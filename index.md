@@ -3,9 +3,11 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+<img src = "./assets/img/bmw_logo_PNG19707.png" width = "200" height = "200" align="left">
+Hi, I am a M.A. student in Scientific Computing at Technische Universität Berlin. My research interest is on the Machine Learning based on Mathematics.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+I received M.Sc. in applied mathematics from Pusan National University in rep. of Korea, advised by Hyun-Min Kim. At the same time, I have worked at the Industrial Mathematics Center as a student research associate.
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+I am currently concreting my interest! [cv](./assets/file/invitation_letter.pdf)
+
 </div>
