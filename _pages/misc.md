@@ -21,7 +21,7 @@ permalink: /misc/
 
 ## Talks
 - Algorithm improving label arrangements in offset printing\\
-_Soochow University, China_, 2019 [[slide](https://drive.google.com/file/d/1I_JnNf0o1U7M9UGkqkpAWHgvd9MIouDI/view?usp=sharing)]
+_Soochow University, China_, 2019 [[slide](/assets/file/offset_printing.pdf)]
 
 - Designing
 
@@ -29,7 +29,7 @@ _Soochow University, China_, 2019 [[slide](https://drive.google.com/file/d/1I_Jn
 
 ## Posters
 - Designing optimizing procedures for task switching to ensure efficiency in the hospital laboratory, KSIAM
-spring conference 2021 [[poster](https://drive.google.com/file/d/19dgoD53g2GM5YICSBB9epQtRK3Zv-pjF/view?usp=sharing)]
+spring conference 2021 [[poster](/assets/file/KSIAM_poster.pdf)]
 
 ---
 
