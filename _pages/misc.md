@@ -23,7 +23,8 @@ permalink: /misc/
 - Algorithm improving label arrangements in offset printing\\
 _Soochow University, China_, 2019 [[slide](/assets/file/offset_printing.pdf)]
 
-- Designing
+- Proposing optimal procedures for efficient task switching in the hospital laboratory \\
+_YAMS conference_ 2021
 
 ---
 
