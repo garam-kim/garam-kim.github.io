@@ -1,55 +1,63 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# The main config file for your Jekyll template
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# Site settings
+title: Garam              # used for the html title of every page
+desc: >
+  Garam's page
+
+url: http://garam-kim.github.io    # put your website hosting url here
+baseurl: ''                 # the subpath of your site, e.g. /blog
+permalink: /:year/:title/   # how should we display posts url
+
+# Meta settings
+email: garam.tolba@gmail.com
+author: Garam
+# twitter_username: clenemt
+#github_username: clenemt
+#github_source: jackal
+
+# Put your ga tracking code below
+google_analytics: 'G-92VV255ZED'
+
+# Pagination settings
+paginate: 5                           # number of posts to show per page
+paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+
+# Navigation settings
+# Used to define the navigation menu items
+# > Title is the tile of the navigation item, url the url and desc is the tooltip
+navigation:
+  - title: Educations
+    url: /educations/
+  #  desc: Stuffs I write about
+  - title: Publications
+    url: /publications/
+#    desc: Stuffs I like to do
+  - title: Misc
+    url: /misc/
+    #desc: Stuffs I hate to do
+
+# Used by Jekyll to recognize what is a post and what is a page
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+
+# Markdown parser settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false          # you can change this if you feel like it
+  parse_block_html: true    # allow parsing html inside markdown
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+include:
+  - _pages                  # all your pages can be put inside pages (except articles)
+exclude:
+  - README.md
+  - vendor
+gems:
+  - jekyll-paginate
