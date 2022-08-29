@@ -1,2 +1,1 @@
-# SoSe21_MI2
-# SS21_MI2
+# Julia
