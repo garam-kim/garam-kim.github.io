@@ -30,8 +30,8 @@ navigation:
   - title: Educations
     url: /educations/
   #  desc: Stuffs I write about
-  - title: Publications
-    url: /publications/
+  - title: Experience
+    url: /experience/
 #    desc: Stuffs I like to do
   - title: Misc
     url: /misc/
