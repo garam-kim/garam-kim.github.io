@@ -21,7 +21,7 @@ permalink: /misc/
 
 ## Talks
 - Proposing optimal procedures for efficient task switching in the hospital laboratory 
-  _YAMS conference_ 2021[[slide](/assets/file/presentation.pdf)]
+  _YAMS conference_ 2021 [[slide](/assets/file/presentation.pdf)]
 
 ---
 
