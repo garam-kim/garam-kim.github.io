@@ -10,10 +10,10 @@ permalink: /misc/
 
 
 ## Scholarships
-- [Brain Korea 21 plus](https://bk21four.nrf.re.kr/sub01/sub111/list.do) Scholarship, 2019-2020 <br> 　<span style="font-size:16.5px"> Government-funding program to strengthen the educational and research capabilities of excellent graduate students. </span>
+- [Brain Korea 21 plus](https://bk21four.nrf.re.kr/sub01/sub111/list.do) Scholarship, 2019-2020 <br><span style="font-size:16.5px"> Government-funding program. </span>
   
 - Study Scholarships, Pusan National University, 2013-2015, 2020
-- Samsung Dream Scholarship, [Samsung Dream Scholarship Foundation](http://eng.sdream.or.kr/wwd/wwd01.html#wwd_menu), 2013<br>　<span style="font-size:16.5px"> Awarded to an undergraduate student as a mentor for middle school students living in rural areas. </span>
+- Samsung Dream Scholarship, [Samsung Dream Scholarship Foundation](http://eng.sdream.or.kr/wwd/wwd01.html#wwd_menu), 2013<br><span style="font-size:16.5px"> Awarded to an undergraduate student as a mentor for middle school students living in rural areas. </span>
 
 
 
@@ -40,5 +40,4 @@ _spring conference_ 2021 [[poster](/assets/file/KSIAM_poster.pdf)]
 - Pusan National University [language education center ambassadors](https://m.facebook.com/PNULEI/), 2017<br> 　<span style="font-size:16.5px"> Promoted events for international students in the Language Education Center.  </span>
   
 - International Congress of Mathematics ([ICM](http://www.icm2014.org/)), Seoul, 2014<br> 　<span style="font-size:16.5px"> Worked as a volunteer staff member  </span>
-
 
