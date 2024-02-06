@@ -10,7 +10,7 @@ I received M.Sc. in applied mathematics from Pusan National University in rep. o
 [[cv](./assets/file/cv.pdf)] <br> <br> <br> <br>
 </p>
 <p style="font-size:13px" align="right">
-Last modified: Sep. 10, 2021
+Last modified: Feb. 6, 2024
 </p>
 
 
