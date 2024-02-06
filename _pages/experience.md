@@ -8,23 +8,21 @@ permalink: /experience/
 
 ## Experience
 
-#### Interactive Optimization and Learning @ Zuse Institute Berlin
-
-Student Research Assistant, 08/2021 - Present
+- **Interactive Optimization and Learning** @ Zuse Institute Berlin <br> 　　Student Research Assistant, 08/2021 - Present
 
 
 
-#### Industrial Mathematics Center on Big Data @ Pusan National University
-
-Graduate Research Assistant, 03/2019 - 08/2020
+- **Industrial Mathematics Center on Big Data** @ Pusan National University <br> 　　Graduate Research Assistant, 03/2019 - 08/2020
 
 
 
 ​	<br>
+
+---
 
 ## Publications
 
 #### Designing optimizing procedures for task switching to ensure efficiency in the hospital laboratory
 
 Young-Jin Kim, __Garam Kim__\*, Sangil Kim\*, Dawoon Jung & Minwoo Park. 	<br>
-_[Scientific reports 11](https://www.nature.com/articles/s41598-021-92116-z), 12717._ (2021). <span style="color:grey"> 　　　　\[[poster](/assets/file/KSIAM_poster.pdf)\], [slide]</span>
+_[Scientific reports 11](https://www.nature.com/articles/s41598-021-92116-z), 12717._ (2021). <span style="color:grey">\[[poster](/assets/file/KSIAM_poster.pdf)\], [slide]</span>
