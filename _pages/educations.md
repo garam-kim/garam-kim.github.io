@@ -12,7 +12,7 @@ permalink: /educations/
 
 ## Pusan National University
 
-- M.Sc. in Applied Mathematics, Aug. 2020<br> Master’s thesis: Convergence of Newton’s Method in Solving Quadratic Matrix Equation with Artificial Neural Network (Advisor: Prof. Dr. Hyun-Min Kim)  \[[Slide](/assets/file/master_slide.pdf)\], \[[paper](/assets/file/garam_thesis.pdf)\]
+- M.Sc. in Applied Mathematics, Aug. 2020<br><span style="color:grey; font-size:16.5px"> Master’s thesis: Convergence of Newton’s Method in Solving Quadratic Matrix Equation with Artificial Neural Network (Advisor: Prof. Dr. Hyun-Min Kim)  \[[Slide](/assets/file/master_slide.pdf)\], \[[paper](/assets/file/garam_thesis.pdf)\]
 
 - B.Sc. in Mathematics Education, Feb. 2019
   

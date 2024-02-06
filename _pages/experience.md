@@ -8,11 +8,11 @@ permalink: /experience/
 
 ## Experience
 
-- **Interactive Optimization and Learning** @ Zuse Institute Berlin <br> 　　Student Research Assistant, Aug. 2021 - Present
+- [**Interactive Optimization and Learning**](https://iol.zib.de/) @ [ZIB](https://www.zib.de/) <br> 　　Student Research Assistant, Aug. 2021 - Present
 
 
 
-- **Industrial Mathematics Center on Big Data** @ Pusan National University <br> 　　Graduate Research Assistant, Mar. 2019 - Aug. 2020
+- **Industrial Mathematics Center on Big Data** @ [PNU](https://pusan.ac.kr/eng/Main.do) <br> 　　Graduate Research Assistant, Mar. 2019 - Aug. 2020
 
 
 
