@@ -16,8 +16,6 @@ permalink: /experience/
 
 
 
-​	<br>
-
 ---
 
 ## Publications
