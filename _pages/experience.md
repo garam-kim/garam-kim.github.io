@@ -3,7 +3,7 @@ layout: page
 title: Publications
 #subtitle: I am a smart heading.
 #desc: About me.
-permalink: /publications/
+permalink: /experience/
 ---
 
 
