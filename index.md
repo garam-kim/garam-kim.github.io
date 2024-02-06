@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-<p style="font-size:16px"> <img src = "./assets/img/budapest.jpg" align="right" width = "200" height = "200" vspace="5" hspace="16"> Hi, I am a master's student in Scientific Computing at Technische Universität Berlin. At the same time, I am a student assistant in [IOL](https://iol.zib.de/) at [ZIB](https://www.zib.de/). <br> <br>
+<p style="font-size:16px"> <img src = "./assets/img/budapest.jpg" align="right" width = "200" height = "200" vspace="5" hspace="16"> Hi, I am a master's student in Scientific Computing at Technische Universität Berlin. At the same time, I am a student assistant at [IOL](https://iol.zib.de/) in [ZIB](https://www.zib.de/). <br> <br>
 
 
 
